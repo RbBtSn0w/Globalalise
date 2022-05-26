@@ -1,0 +1,16 @@
+PODS:
+  - Globalalise (0.1.0)
+
+DEPENDENCIES:
+  - Globalalise (from `../`)
+
+EXTERNAL SOURCES:
+  Globalalise:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Globalalise: c47ae94b2b248d0e2f0962d9fe12781202c9573e
+
+PODFILE CHECKSUM: c9a1211a22b045dd7f2e2ad7cf5b16c4f07d3b61
+
+COCOAPODS: 1.11.3
